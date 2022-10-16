@@ -1,0 +1,39 @@
+.company {
+    font-size: 50px;
+}
+.love {
+    background-color: cornflowerblue;
+}
+.lingkon {
+    color: chocolate;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #a69fe4;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(16, 167, 129, 0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  .dropdown span {
+    color: rgb(226, 52, 139);
+    font-family:  'Arial Narrow Bold', sans-serif;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .box {
+    background-color: darkcyan;
+  }
+  .ID {
+    background-color: rgb(9, 179, 179);
+  }
